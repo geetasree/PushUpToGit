@@ -13,5 +13,9 @@ public class StartActivity extends AppCompatActivity {
 
     public void testUpload(){
         int  i=55;
+
+        int ii=58;
+
+        int iii=101;
     }
 }
